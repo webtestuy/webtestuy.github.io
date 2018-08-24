@@ -600,7 +600,7 @@ h2, h3, h4, h5, h6, figure {
   padding: 0;
   margin: 0; }
   .tour-wrap .tour-entry {
-    width: 25%;
+    width: 33%;
     float: left;
     position: relative;
     height: 250px;
@@ -1309,8 +1309,8 @@ article {
     width: 25%;
     padding: 7em 4em 7em 0; }
   .about-flex .col-three-forth {
-    width: 75%;
-    padding: 7em 4em; }
+    /*width: 75%;*/
+    padding: 7em /*4em*/; }
   .about-flex .col-one-forth, .about-flex .col-three-forth {
     display: inline-block; }
     @media screen and (max-width: 768px) {
